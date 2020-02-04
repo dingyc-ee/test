@@ -1,0 +1,2 @@
+输入 folder/ 就会自动成为文件夹
+创建文件夹下的txt文件：folder/new.txt
